@@ -3,7 +3,6 @@
 This directory contains simple C examples demonstrating a minimal "Hello World" program.
 
 Files
-- `hello.c` - Minimal C program printing a greeting.
 - `helloWorld.c` - Another example demonstrating basic C program structure.
 
 Build & Run
